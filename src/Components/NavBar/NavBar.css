@@ -1,20 +1,17 @@
-  .navbar{
-   position: fixed;
-   top: 0;
-   height: 30px;
-   padding: 20px;
-   width: 100%;
-    display: flex;
-    justify-content: center;
-    background-color: #111;
-  }  
-  .logo{
-    position: fixed;
-    left: 20px;
-    width: 80px;
-  }
-  .avatar{
-    position: fixed;
-    right: 20px;
-    width: 30px;
-  }
+.img-size{
+  height: 25px;
+}
+.p-10{
+  padding: 10px;
+}
+
+.nav-a{
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+
+}
+.nav-a:hover{
+  background-color: aliceblue;
+  cursor: pointer;
+}

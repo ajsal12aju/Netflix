@@ -4,6 +4,7 @@ import "./App.css";
 import {originals,action} from './urls'
 import Banner from "./Components/Banner/Banner";
 import RowPost from "./Components/RowPost/RowPost";
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
      <Banner/>
      <RowPost url={originals} title="Netflix Originals"/>
      <RowPost url={action} title="Action" isSmall/>
+     <Footer/>
 
     </div>
   );

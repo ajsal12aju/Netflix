@@ -1,0 +1,19 @@
+.btn{
+    padding: 7%;
+    border: 2px solid white;
+    border-radius: 26px;
+    width: 150px;
+}
+.rem-2{
+    font-size: 2rem;
+}
+
+.w-75{
+    width: 75px;
+    font-size: 18px;
+    color: #ffffffa1;
+}
+
+.card{
+    height: 150px !important;
+}

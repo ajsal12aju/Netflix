@@ -21,7 +21,7 @@
     width: 100%;
     cursor: pointer;
 }
-
 .poster:hover{
     transform: scale(1.2);
 }
+
