@@ -17,7 +17,7 @@ function NavBar() {
           <a className="nav-link nav-a" href="#">Link</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link nav-a">Disabled</a>
+          <a className="nav-link nav-a">Latest Movies</a>
         </li>
       </ul>
       <img className='img-size ms-3' src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png" alt="" />
